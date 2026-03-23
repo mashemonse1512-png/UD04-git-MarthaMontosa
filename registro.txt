@@ -1,1 +1,3 @@
 Commit 1: inicio
+
+¡Este es un cambio externo desde GitHub!
