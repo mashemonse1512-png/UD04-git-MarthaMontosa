@@ -3,6 +3,7 @@
 # Mi primer repositorio
 
 > Este es mi primer respositorio para practicar Git y GitHub.
+> ¡Esta línea corresponde a una modificación desde GitHub!
 
 ## Built With
 
